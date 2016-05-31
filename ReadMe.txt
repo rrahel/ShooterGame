@@ -8,6 +8,4 @@ ShooterGame game:
 	dist-->has the .jar file
 	doc-->are the generated javadocs
 	res-->has all the images used in the game
-	
-@Rrahel Cemi
-	
+		
